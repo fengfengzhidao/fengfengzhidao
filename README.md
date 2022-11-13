@@ -23,7 +23,7 @@
 
 <p align="center">
 
-<a href="https://www.bilibili.com/video/BV1tP411c7dX" style="display: inline-flex; align-items: center; justify-content: center; flex-direction: column;">
+<a href="https://www.bilibili.com/video/BV1tP411c7dX" class="video_" style="display: inline-flex; align-items: center; justify-content: center; flex-direction: column;">
 <img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i2.hdslb.com/bfs/archive/e89561ef1907c2531649476d82c98a4ed335c140.png">
 <span>Go入门实战</span>
 </a>
