@@ -1,5 +1,5 @@
 
-<h1 style="color: #377ef6">welcome from <a href="http://www.fengfengzhidao.com" style="color: #c71d23">fengfengzhidao</a> </h1>
+<h1 style="color: #377ef6">welcome from <a href="https://www.fengfengzhidao.com" style="color: #c71d23">fengfengzhidao</a> </h1>
 
 <p align='center'>
 <a href="https://space.bilibili.com/359151217"><img height="30" src="https://raw.github.com/fengfengzhidao/fengfengzhidao/main/icons/bilibili_icon.svg"></a>&nbsp;&nbsp;
@@ -11,37 +11,45 @@
 
 ## 技术栈
 
-![](https://img.shields.io/badge/python-3.8.6-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/python-django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/python-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/mysql-5.7.26-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/redis-7.0.4-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/golang-1.18.2-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/golang-1.24.0-informational?style=flat&logo=Go&logoColor=white&color=orange)
+![](https://img.shields.io/badge/python-3.10.9-informational?style=flat&logo=Python&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/node-22.11.0-informational?style=flat&logo=Node&logoColor=white&color=red)
+
 
 
 ## 哔哩哔哩视频
 
 <p align="center">
 
-<a href="https://www.bilibili.com/video/BV1tP411c7dX">
-<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i2.hdslb.com/bfs/archive/e89561ef1907c2531649476d82c98a4ed335c140.png">
+<a href="https://www.bilibili.com/video/BV1zu4y187Wb/">
+<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i1.hdslb.com/bfs/archive/46bf21c8485eedf09317000c34a771b67334059e.png">
 </a>
-<a href="https://www.bilibili.com/video/BV1yu411276D">
-<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i0.hdslb.com/bfs/archive/ea742ba7fce8ad0a20c5ced57475b927f0c23ba8.png">
+<a href="https://www.bilibili.com/video/BV1ei421U7Np/">
+<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://archive.biliimg.com/bfs/archive/dc475f0f5bef6e91964a8bd40501b31eed8048d2.jpg">
 </a>
-<a href="https://www.bilibili.com/video/BV1PL4y1n736">
-<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i2.hdslb.com/bfs/archive/570664b47adcaa07a26b83fdf6ec5bc980e6c6fd.png">
+<a href="https://www.bilibili.com/video/BV1UC2wY5Eue/">
+<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i1.hdslb.com/bfs/archive/03e6c27e6042fe86396da72e47dc79d26e39a088.png">
 </a>
-<a href="https://www.bilibili.com/video/BV1MU4y1c7UT">
-<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i2.hdslb.com/bfs/archive/63341f77756f9b3b4a538534a7fbd1e83e773720.png">
+<a href="https://www.bilibili.com/video/BV1zYB1YaEVL/">
+<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i1.hdslb.com/bfs/archive/44e0c9178f9a4a7d275d662efba328915f71e7dc.png">
+</a>
+<a href="https://www.bilibili.com/video/BV1BJ8xz8EKJ/">
+<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i1.hdslb.com/bfs/archive/258f028e469f1fbfa5445f666d06948212121393.jpg">
 </a>
 
 </p>
 
-## 个人项目
+## 官网及课程
 
-- 枫枫知道个人博客   <a target="_blank" href="http://www.fengfengzhidao.com">www.fengfengzhidao.com</a>
-- 枫枫知道官方文档   <a target="_blank" href="http://docs.fengfengzhidao.com">docs.fengfengzhidao.com</a>
+- 枫枫知道个人博客   <a target="_blank" href="https://www.fengfengzhidao.com">www.fengfengzhidao.com</a>
+- 枫枫知道官方文档   <a target="_blank" href="https://docs.fengfengzhidao.com">docs.fengfengzhidao.com</a>
+- 七八九代博客 
+- 十代博客 
+- 文档项目 
+- fim课程 
+- fai课程 
+- rbac课程 
+- 蜜罐课程 
 
 
 ## 提交信息
