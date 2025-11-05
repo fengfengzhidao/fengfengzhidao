@@ -33,10 +33,6 @@
 <a href="https://www.bilibili.com/video/BV1zYB1YaEVL/">
 <img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i1.hdslb.com/bfs/archive/44e0c9178f9a4a7d275d662efba328915f71e7dc.png">
 </a>
-<a href="https://www.bilibili.com/video/BV1BJ8xz8EKJ/">
-<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i1.hdslb.com/bfs/archive/258f028e469f1fbfa5445f666d06948212121393.jpg">
-</a>
-
 </p>
 
 ## 官网及课程
