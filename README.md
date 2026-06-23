@@ -11,48 +11,22 @@
 
 ## 技术栈
 
+![](https://img.shields.io/badge/codex-AI-informational?style=flat&logo=OpenAI&logoColor=white&color=black)
 ![](https://img.shields.io/badge/golang-1.24.0-informational?style=flat&logo=Go&logoColor=white&color=orange)
-![](https://img.shields.io/badge/python-3.10.9-informational?style=flat&logo=Python&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/node-22.11.0-informational?style=flat&logo=Node&logoColor=white&color=red)
+![](https://img.shields.io/badge/python-3.10.9-informational?style=flat&logo=Python&logoColor=white&color=yellow)
 
 
 
 ## 哔哩哔哩视频
 
-<p align="center">
+| 封面 | 视频 |
+| --- | --- |
+| [<img width="160" src="https://i0.hdslb.com/bfs/archive/6fcdcd6c9b688ac17b10805ac7513f8085685531.jpg">](https://www.bilibili.com/video/BV1SjGi6nEZ6/?spm_id_from=333.1387.upload.video_card.click) | [Codex 新手保姆级教程：从安装配置到项目实战，一套视频讲明白](https://www.bilibili.com/video/BV1SjGi6nEZ6/?spm_id_from=333.1387.upload.video_card.click) |
+| [<img width="160" src="https://i0.hdslb.com/bfs/archive/265c1f0b2096a4e651bf8b028f2a671f2f5b2140.jpg">](https://www.bilibili.com/video/BV1zrGL6CEwu/?spm_id_from=333.1387.upload.video_card.click) | [Codex 国内直连方案：接入 DeepSeek 手把手教程](https://www.bilibili.com/video/BV1zrGL6CEwu/?spm_id_from=333.1387.upload.video_card.click) |
+| [<img width="160" src="https://i0.hdslb.com/bfs/archive/622d2ba210ba4f101156a5f10c1dd77c9a90254b.jpg">](https://www.bilibili.com/video/BV1ghJG6uEH8/?spm_id_from=333.1387.upload.video_card.click) | [cc switch 王炸更新：codex++可以不需要了](https://www.bilibili.com/video/BV1ghJG6uEH8/?spm_id_from=333.1387.upload.video_card.click) |
+| [<img width="160" src="https://camo.githubusercontent.com/cad05856561503a519d09063e6e21801385ebd9364b5e79308e900c5f21f7142/68747470733a2f2f69312e6864736c622e636f6d2f6266732f617263686976652f343662663231633834383565656466303933313730303063333461373731623637333334303539652e706e67">](https://www.bilibili.com/video/BV1zu4y187Wb/) | [枫枫知道 Go 语言项目实战](https://www.bilibili.com/video/BV1zu4y187Wb/) |
 
-<a href="https://www.bilibili.com/video/BV1zu4y187Wb/">
-<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i1.hdslb.com/bfs/archive/46bf21c8485eedf09317000c34a771b67334059e.png">
-</a>
-<a href="https://www.bilibili.com/video/BV1ei421U7Np/">
-<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://archive.biliimg.com/bfs/archive/dc475f0f5bef6e91964a8bd40501b31eed8048d2.jpg">
-</a>
-<a href="https://www.bilibili.com/video/BV1UC2wY5Eue/">
-<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i1.hdslb.com/bfs/archive/03e6c27e6042fe86396da72e47dc79d26e39a088.png">
-</a>
-<a href="https://www.bilibili.com/video/BV1zYB1YaEVL/">
-<img style="border-radius: 4px; display: block; width: 160px; height: 100px;" src="https://i1.hdslb.com/bfs/archive/44e0c9178f9a4a7d275d662efba328915f71e7dc.png">
-</a>
-</p>
+## 官网
 
-## 官网及课程
-
-- 枫枫知道个人博客   <a target="_blank" href="https://www.fengfengzhidao.com">www.fengfengzhidao.com</a>
-- 枫枫知道官方文档   <a target="_blank" href="https://docs.fengfengzhidao.com">docs.fengfengzhidao.com</a>
-- 七八九代博客 
-- 十代博客 
-- 文档项目 
-- fim课程 
-- fai课程 
-- rbac课程 
-- 蜜罐课程 
-
-
-## 提交信息
-
-[![fengfengzhidao's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengfengzhidao&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 使用语言
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fengfengzhidao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 枫枫知道 https://[www.fengfengzhidao.com](https://www.fengfengzhidao.com/)
