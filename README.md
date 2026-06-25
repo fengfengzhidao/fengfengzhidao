@@ -1,43 +1,43 @@
+## 哔哩哔哩视频
 
-<h1 style="color: #377ef6">welcome from <a href="https://www.fengfengzhidao.com" style="color: #c71d23">fengfengzhidao</a> </h1>
+我的 B 站主页主要分享编程开发和 AI Coding 相关内容，偏实战、入门和问题解决。内容覆盖 Codex、Claude Code、DeepSeek、MCP、AI Agent 等 AI 编程工具，也会持续更新 Go、Vue、Python、Docker、Linux、MySQL、Redis、Nginx、PostgreSQL、MongoDB、Kafka、RabbitMQ 等后端、前端和中间件基础课程。
 
-<p align='center'>
-<a href="https://space.bilibili.com/359151217"><img height="30" src="https://raw.github.com/fengfengzhidao/fengfengzhidao/main/icons/bilibili_icon.svg"></a>&nbsp;&nbsp;
-<a href="https://gitee.com/fengfengzhidao/"><img height="30" src="https://raw.github.com/fengfengzhidao/fengfengzhidao/main/icons/gitee_icon.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/fengfengzhidao/"><img height="30" src="https://raw.github.com/fengfengzhidao/fengfengzhidao/main/icons/github_icon.svg"></a>&nbsp;&nbsp;
-<a href="tencent://message/?uin=2974771769&Site=&Menu=yes"><img height="30" src="https://raw.github.com/fengfengzhidao/fengfengzhidao/main/icons/qq_icon.svg"></a>
-</p>
+我更关注“能直接上手”的学习体验：从零基础入门、项目实战、开发环境配置、部署上线，到常见报错和国内使用方案，尽量把复杂工具讲成普通开发者也能跟着做的教程。
 
+- AI Coding：Codex 安装配置、国内接入、代理配置、DeepSeek 接入、Skills 工作流、MCP 实战开发等。
+- 后端开发：Go、Gin、GORM、go-zero、gRPC、日志框架、博客系统、接口文档、项目部署等。
+- 前端与全栈：Vue3、Nuxt、Axios、TypeScript、浏览器插件、前后端分离项目等。
+- 基础设施：Docker、Linux、Nginx、MySQL、Redis、PostgreSQL、MongoDB、MinIO、Kafka、RabbitMQ 等。
 
-## 技术栈
-
-![](https://img.shields.io/badge/codex-AI-informational?style=flat&logo=OpenAI&logoColor=white&color=black)
-![](https://img.shields.io/badge/golang-1.24.0-informational?style=flat&logo=Go&logoColor=white&color=orange)
-![](https://img.shields.io/badge/node-22.11.0-informational?style=flat&logo=Node&logoColor=white&color=red)
-![](https://img.shields.io/badge/python-3.10.9-informational?style=flat&logo=Python&logoColor=white&color=yellow)
-
+| 播放量 | 代表视频 | 方向 |
+| ---: | --- | --- |
+| 34.0 万 | [Codex 新手保姆级教程：从安装配置到项目实战，一套视频讲明白](https://www.bilibili.com/video/BV1SjGi6nEZ6/?spm_id_from=333.1387.upload.video_card.click) | AI Coding / Codex |
+| 12.0 万 | [cc switch 王炸更新：codex++可以不需要了](https://www.bilibili.com/video/BV1ghJG6uEH8/?spm_id_from=333.1387.upload.video_card.click) | AI Coding 工具 |
+| 9.7 万 | Gin 框架入门课程 2022 年 12 月更新 | Go / Gin |
+| 8.7 万 | 博客项目：从 0 到 1 开发出属于你的个人博客 | 全栈项目 |
+| 7.8 万 | Codex 接入 DeepSeek 手把手教程 | AI Coding / DeepSeek |
+| 7.4 万 | Codex 登录卡在手机号验证？我写了 7 个方案解决 | Codex 问题解决 |
+| 6.8 万 | codex 设置不了中文？我复现半天终于解决了 | Codex 问题解决 |
+| 6.5 万 | Gin-Vue-Blog 博客项目 Gin 后端全套教程 | Go / Gin / Vue |
+| 5.5 万 | Vue3 零基础入门：9 小时入门 | Vue3 |
+| 4.9 万 | Go 语言基础课程：八小时保姆级教程 | Go |
+| 4.8 万 | Gorm 简明教程：手把手复活了 | Go / GORM |
+| 4.6 万 | PostgreSQL 零基础入门课程 | PostgreSQL |
+| 4.3 万 | go-zero 零基础入门教程：微服务开发必学教程 | Go / 微服务 |
+| 4.3 万 | 四十分钟快速了解 PostgreSQL 入门课程 | PostgreSQL |
+| 3.9 万 | Codex Reconnecting 解决办法：Codex 代理配置 | Codex 问题解决 |
 
 
 ## 开源项目
 
-| 项目 | Star | Fork | 技术栈 | 介绍 |
-| --- | ---: | ---: | --- | --- |
-| [fengfeng_blog](https://github.com/fengfengzhidao/fengfeng_blog) | 104 | 23 | Python | 枫枫知道个人博客项目，包含博客站点的后端、页面模板、静态资源和数据库脚本，适合用来学习完整博客系统的搭建。 |
-| [sunsetbot](https://github.com/fengfengzhidao/sunsetbot) | 24 | 6 | Go | 火烧云推送服务，会定时获取城市朝霞、晚霞指数，达到配置阈值后通过消息推送提醒，支持配置文件和 Docker 部署。 |
-| [fast_gin](https://github.com/fengfengzhidao/fast_gin) | 20 | 10 | Go | 基于 Gin 的 Go Web 项目，沉淀常用后端开发结构和接口开发实践，适合学习 Go Web 服务开发。 |
-| [LogLite](https://github.com/fengfengzhidao/LogLite) | 17 | 2 | Vue | 本地日志查看器，用来更方便地查看、筛选和定位本地日志内容，适合开发调试和日常排查问题。 |
-| [GoDesignPattern](https://github.com/fengfengzhidao/GoDesignPattern) | 13 | 9 | Go | Go 语言设计模式示例项目，用 Go 代码演示常见设计模式，帮助理解不同模式的使用场景和实现方式。 |
-| [port_lite](https://github.com/fengfengzhidao/port_lite) | 9 | 3 | Go | 端口进程查看器，用于查看本机端口占用和对应进程信息，辅助快速定位端口冲突问题。 |
-
-
-## 哔哩哔哩视频
-
-| 封面 | 视频 |
-| --- | --- |
-| [<img width="160" src="https://i0.hdslb.com/bfs/archive/6fcdcd6c9b688ac17b10805ac7513f8085685531.jpg">](https://www.bilibili.com/video/BV1SjGi6nEZ6/?spm_id_from=333.1387.upload.video_card.click) | [Codex 新手保姆级教程：从安装配置到项目实战，一套视频讲明白](https://www.bilibili.com/video/BV1SjGi6nEZ6/?spm_id_from=333.1387.upload.video_card.click) |
-| [<img width="160" src="https://i0.hdslb.com/bfs/archive/265c1f0b2096a4e651bf8b028f2a671f2f5b2140.jpg">](https://www.bilibili.com/video/BV1zrGL6CEwu/?spm_id_from=333.1387.upload.video_card.click) | [Codex 国内直连方案：接入 DeepSeek 手把手教程](https://www.bilibili.com/video/BV1zrGL6CEwu/?spm_id_from=333.1387.upload.video_card.click) |
-| [<img width="160" src="https://i0.hdslb.com/bfs/archive/622d2ba210ba4f101156a5f10c1dd77c9a90254b.jpg">](https://www.bilibili.com/video/BV1ghJG6uEH8/?spm_id_from=333.1387.upload.video_card.click) | [cc switch 王炸更新：codex++可以不需要了](https://www.bilibili.com/video/BV1ghJG6uEH8/?spm_id_from=333.1387.upload.video_card.click) |
-| [<img width="160" src="https://camo.githubusercontent.com/cad05856561503a519d09063e6e21801385ebd9364b5e79308e900c5f21f7142/68747470733a2f2f69312e6864736c622e636f6d2f6266732f617263686976652f343662663231633834383565656466303933313730303063333461373731623637333334303539652e706e67">](https://www.bilibili.com/video/BV1zu4y187Wb/) | [枫枫知道 Go 语言项目实战](https://www.bilibili.com/video/BV1zu4y187Wb/) |
+| 项目 | Star | Fork | 介绍 |
+| --- | ---: | ---: | --- |
+| [fengfeng_blog](https://github.com/fengfengzhidao/fengfeng_blog) | 104 | 23 | 枫枫知道个人博客项目，包含博客站点的后端、页面模板、静态资源和数据库脚本，适合用来学习完整博客系统的搭建。 |
+| [sunsetbot](https://github.com/fengfengzhidao/sunsetbot) | 24 | 6 | 火烧云推送服务，会定时获取城市朝霞、晚霞指数，达到配置阈值后通过消息推送提醒，支持配置文件和 Docker 部署。 |
+| [fast_gin](https://github.com/fengfengzhidao/fast_gin) | 20 | 10 | 基于 Gin 的 Go Web 项目，沉淀常用后端开发结构和接口开发实践，适合学习 Go Web 服务开发。 |
+| [LogLite](https://github.com/fengfengzhidao/LogLite) | 17 | 2 | 本地日志查看器，用来更方便地查看、筛选和定位本地日志内容，适合开发调试和日常排查问题。 |
+| [GoDesignPattern](https://github.com/fengfengzhidao/GoDesignPattern) | 13 | 9 | Go 语言设计模式示例项目，用 Go 代码演示常见设计模式，帮助理解不同模式的使用场景和实现方式。 |
+| [port_lite](https://github.com/fengfengzhidao/port_lite) | 9 | 3 | 端口进程查看器，用于查看本机端口占用和对应进程信息，辅助快速定位端口冲突问题。 |
 
 ## 官网
 
